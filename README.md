@@ -20,3 +20,8 @@ The Logic responds to three test cases:
 3. Case 2: Motor will run with its normal speed.
 Link to Online MBED compiler:
 https://os.mbed.com/users/Sanketrj/code/Lidar_UART_Airbagdeployment/file/43e6d9eece03/main.cpp/
+
+
+for MBDT Files:
+MASTER: download file --> Lidar_based_Motor_Control_Master.slx
+SLAVE: download file --> 
