@@ -24,4 +24,4 @@ https://os.mbed.com/users/Sanketrj/code/Lidar_UART_Airbagdeployment/file/43e6d9e
 
 for MBDT Files:
 MASTER: download file --> Lidar_based_Motor_Control_Master.slx
-SLAVE: download file --> 
+SLAVE: download file --> StepbyStepMotorControl_Slave_SM.slx
